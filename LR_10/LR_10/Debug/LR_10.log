@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_10\LR_10\Source.cpp(65,8): warning C4215: нестандартное расширение: long float
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_10\LR_10\Source.cpp(75,72): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_10\LR_10\Source.cpp(87,12): warning C4101: temp: неиспользованная локальная переменная
+  LR_10.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_10\Debug\LR_10.exe

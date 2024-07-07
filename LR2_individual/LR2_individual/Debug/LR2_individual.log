@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR2_individual\LR2_individual\Source.cpp(33,53): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR2_individual\LR2_individual\Source.cpp(35,54): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR2_individual\LR2_individual\Source.cpp(37,58): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  LR2_individual.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR2_individual\Debug\LR2_individual.exe

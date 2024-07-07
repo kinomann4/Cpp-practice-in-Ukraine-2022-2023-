@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(14,35): warning C4305: +=: усечение из "double" в "float"
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(15,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(30,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(30,34): warning C4305: инициализация: усечение из "double" в "float"
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(30,46): warning C4305: инициализация: усечение из "double" в "float"
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(33,5): warning C4305: =: усечение из "double" в "float"
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(33,37): warning C4305: +=: усечение из "double" в "float"
+D:\Ukraine college projects\LR_6(task 2,3)\LR_6(task 2,3)\Source.cpp(34,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LR_6(task 2,3).vcxproj -> D:\Ukraine college projects\LR_6(task 2,3)\Debug\LR_6(task 2,3).exe

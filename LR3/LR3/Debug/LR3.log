@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(11,37): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(39,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(41,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(42,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(43,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(45,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(46,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(48,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(49,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(79,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\LR3\Source.cpp(79,37): warning C4305: инициализация: усечение из "double" в "float"
+  LR3.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR3\Debug\LR3.exe

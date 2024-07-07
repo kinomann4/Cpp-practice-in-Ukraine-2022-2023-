@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(21,65): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(21,65): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 7
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(22,64): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(22,64): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 7
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(26,87): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(26,87): message : заполнители и их параметры ожидают переменное число аргументов в количестве 9, но было предоставлено 10
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\LR1_individual\Source.cpp(28,20): warning C4305: инициализация: усечение из "double" в "float"
+  LR1_individual.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR1_individual\x64\Debug\LR1_individual.exe

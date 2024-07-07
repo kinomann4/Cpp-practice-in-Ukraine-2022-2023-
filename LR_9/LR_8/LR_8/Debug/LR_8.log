@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(83,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(91,67): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(92,81): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(93,58): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(95,64): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(96,82): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\LR_8\Source.cpp(97,67): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  LR_8.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_8\Debug\LR_8.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_15\LR_15\Source.cpp(95,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_15\LR_15\Source.cpp(109,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  LR_15.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR_15\Debug\LR_15.exe

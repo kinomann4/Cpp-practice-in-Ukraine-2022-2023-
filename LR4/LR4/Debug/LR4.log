@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR4\LR4\Source.cpp(18,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR4\LR4\Source.cpp(19,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR4\LR4\Source.cpp(20,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LR4.vcxproj -> C:\Users\Maksim\Desktop\2 курс 2 семестр\Основи C++\Проекти\LR4\Debug\LR4.exe
